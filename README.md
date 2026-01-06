@@ -8,7 +8,7 @@ I'm an enthusiastic fresh graduate who enjoys building things on the web and lea
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ngawang Dorji) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_ngawa) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tt_ngawa) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ngawangdorji200329@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ngawang.dorji.3576224) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_ngawa) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tt_ngawa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCaW5fawZMuYhs2aVNLZd4xA) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ngawangdorji200329@gmail.com)
 
 # 💻 Tech Stack:
 
