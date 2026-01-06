@@ -1,5 +1,15 @@
+<div align="cent## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3DFFB8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ngawang+Dorji+aka+Nova;Full+Stack+Developer;Tech+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+
+<a href="https://github.com/NovaIsCoding">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NovaIsCoding&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NovaIsCoding&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+</a>
+
+![](https://nirzak-streak-stats.vercel.app/?user=NovaIsCoding&theme=dark&hide_border=false)
+
+</div> src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3DFFB8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ngawang+Dorji+aka+Nova;Full+Stack+Developer;Tech+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me
