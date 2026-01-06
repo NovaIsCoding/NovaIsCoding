@@ -1,5 +1,3 @@
-# Hi there! 👋 I'm Ngawang Dorji aka Nova
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3DFFB8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ngawang+Dorji+aka+Nova;Full+Stack+Developer;Tech+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
@@ -10,7 +8,7 @@ I'm an enthusiastic fresh graduate who enjoys building things on the web and lea
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ngawang Dorji) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_ngawa) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tt_ngawa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UR . Ngawang) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ngawangdorji200329@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ngawang Dorji) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_ngawa) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tt_ngawa) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ngawangdorji200329@gmail.com)
 
 # 💻 Tech Stack:
 
