@@ -17,16 +17,7 @@ I'm an enthusiastic fresh graduate who enjoys building things on the web and lea
 ## 📊 GitHub Stats
 
 <div align="center">
-![](https://nirzak-streak-stats.vercel.app/?user=NovaIsCoding&theme=dark&hide_border=false)
-
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![Nova's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NovaIsCoding&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <img src="https://nirzak-streak-stats.vercel.app/?user=NovaIsCoding&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </div>
 
 ---
