@@ -17,7 +17,7 @@ I'm an enthusiastic fresh graduate who enjoys building things on the web and lea
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=NovaIsCoding&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=NovaIsCoding&theme=dark&hide_border=false&starting_year=2025" alt="GitHub Streak Stats" />
 </div>
 
 ---
