@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DFFB8,100:00BFFF&height=200&section=header&text=Ngawang%20Dorji&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=aka%20Nova%20%C2%B7%20Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=ccffee" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:60A5FA&height=200&section=header&text=Ngawang%20Dorji&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=aka%20NovaEos%20%C2%B7%20Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=ccffee" alt="header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=3DFFB8&center=true&vCenter=true&width=600&lines=Building+things+on+the+web+%F0%9F%8C%90;Full+Stack+%7C+Mobile+%7C+ML;Thimphu%2C+Bhutan+%F0%9F%87%A7%F0%9F%87%B9;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=3DFFB8&center=true&vCenter=true&width=600&lines=Building+web+apps+%F0%9F%92%BB;Full+Stack+%7C+Mobile;Based+in+Thimphu+%F0%9F%87%A7%F0%9F%87%B9;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-Fresh grad building things on the web and learning how they work behind the scenes. Naturally curious — turning ideas into simple, usable products, one project at a time.
+Recent grad who loves building web apps and figuring out how things work under the hood. I enjoy turning ideas into simple, useful products.
 
 |     |     |
 | --- | --- |
@@ -18,8 +18,8 @@ Fresh grad building things on the web and learning how they work behind the scen
 ```ts
 const nova = {
   location: "Thimphu, Bhutan 🇧🇹",
-  focus: "Frontend",
-  status: "Writing code, breaking things",
+  focus: "Frontend is my jam, backend is my side hustle",
+  status: "Building cool stuff",
   fueledBy: "Chai tea 🍵",
 };
 ```
@@ -110,15 +110,16 @@ const nova = {
 
 - Full-stack web architecture
 - Frontend development with Next.js
+- React.js mobile app development
 - Building responsive, accessible UIs
-- Clean API design with NestJS & Spring
+- Clean API design with NestJS
 
 ---
 
 <div align="center">
 
-_Open to collaborating on interesting projects. Let's build something._
+_Always learning, always building._
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:3DFFB8&height=120&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,100:1E3A8A&height=120&section=footer" alt="footer" />
 
 </div>
