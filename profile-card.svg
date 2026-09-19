@@ -1,47 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="850" height="648" viewBox="0 0 850 648">
-<rect x="0" y="0" width="850" height="648" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="921" height="764" viewBox="0 0 921 764">
+<rect x="0.5" y="0.5" width="920" height="763" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
 <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" xml:space="preserve">
-<text x="400.0" y="37.7" xml:space="preserve"><tspan fill="#e6edf3">ngawang@nova</tspan></text>
-<text x="22" y="60.1" fill="#c9d1d9">     .-+*++=:                             </text>
-<text x="400.0" y="60.1" xml:space="preserve"><tspan fill="#484f58">----------------------------------------------</tspan></text>
-<text x="22" y="82.5" fill="#c9d1d9">    =########- ...                        </text>
-<text x="22" y="104.9" fill="#c9d1d9">   .####*+--=-=*+++=:                     </text>
-<text x="400.0" y="104.9" xml:space="preserve"><tspan fill="#ffa657">Role:</tspan><tspan fill="#484f58"> ................ </tspan><tspan fill="#c9d1d9">Full Stack Developer</tspan></text>
-<text x="22" y="127.3" fill="#c9d1d9">    +**==-::-+#******.                    </text>
-<text x="400.0" y="127.3" xml:space="preserve"><tspan fill="#ffa657">Company:</tspan><tspan fill="#484f58"> ............. </tspan><tspan fill="#c9d1d9">21 Tech</tspan></text>
-<text x="22" y="149.7" fill="#c9d1d9">     .=-:-:-*####*+*=                     </text>
-<text x="400.0" y="149.7" xml:space="preserve"><tspan fill="#ffa657">Location:</tspan><tspan fill="#484f58"> ............ </tspan><tspan fill="#c9d1d9">Thimphu, Bhutan</tspan></text>
-<text x="22" y="172.1" fill="#c9d1d9">       -+=-*##%#***+++=:                  </text>
-<text x="400.0" y="172.1" xml:space="preserve"><tspan fill="#ffa657">IDE:</tspan><tspan fill="#484f58"> ................. </tspan><tspan fill="#c9d1d9">VS Code</tspan></text>
-<text x="22" y="194.5" fill="#c9d1d9">        -#%%%%#*******##+=:               </text>
-<text x="400.0" y="194.5" xml:space="preserve"><tspan fill="#ffa657">Uptime:</tspan><tspan fill="#484f58"> .............. </tspan><tspan fill="#c9d1d9">4y 6mo (GitHub since 2022)</tspan></text>
-<text x="22" y="216.9" fill="#c9d1d9">         :*%@##********##***-             </text>
-<text x="22" y="239.3" fill="#c9d1d9">           =%####*###**##*##*=.           </text>
-<text x="400.0" y="239.3" xml:space="preserve"><tspan fill="#ffa657">Lang.Code:</tspan><tspan fill="#484f58"> ........... </tspan><tspan fill="#c9d1d9">TypeScript, JavaScript,</tspan></text>
-<text x="22" y="261.7" fill="#c9d1d9">           -%#+-:.-*####%%####*+=.        </text>
-<text x="400.0" y="261.7" xml:space="preserve"><tspan fill="#c9d1d9">                        </tspan><tspan fill="#c9d1d9">Python, PHP, Java</tspan></text>
-<text x="22" y="284.1" fill="#c9d1d9">         ::+%- ... .+##%%%##****++.       </text>
-<text x="400.0" y="284.1" xml:space="preserve"><tspan fill="#ffa657">Lang.Markup:</tspan><tspan fill="#484f58"> ......... </tspan><tspan fill="#c9d1d9">HTML, CSS, JSON</tspan></text>
-<text x="22" y="306.5" fill="#c9d1d9">     :::.==#= ..... :##%####******+::.    </text>
-<text x="400.0" y="306.5" xml:space="preserve"><tspan fill="#ffa657">Lang.Real:</tspan><tspan fill="#484f58"> ........... </tspan><tspan fill="#c9d1d9">Dzongkha, English</tspan></text>
-<text x="22" y="328.9" fill="#c9d1d9">   .*#**##*#-.::.::..#%########****+==. ..</text>
-<text x="22" y="351.3" fill="#c9d1d9">  .-#%%%%#%%+-=-----#%%%#########***+-....</text>
-<text x="400.0" y="351.3" xml:space="preserve"><tspan fill="#ffa657">Hobbies:</tspan><tspan fill="#484f58"> ............. </tspan><tspan fill="#c9d1d9">Open source, UI/UX</tspan></text>
-<text x="22" y="373.7" fill="#c9d1d9">  -+.:==*%%#--==----*%%%%%%%##%####+:.....</text>
-<text x="400.0" y="373.7" xml:space="preserve"><tspan fill="#c9d1d9">                        </tspan><tspan fill="#c9d1d9">tinkering</tspan></text>
-<text x="22" y="396.1" fill="#c9d1d9">   .    =*++========+%%%%%%##%%###=.......</text>
-<text x="22" y="418.5" fill="#c9d1d9">       :***++*+----=*@%%%%%%%%###=........</text>
-<text x="400.0" y="418.5" xml:space="preserve"><tspan fill="#484f58">------------------</tspan><tspan fill="#e6edf3"> Contact </tspan><tspan fill="#484f58">-------------------</tspan></text>
-<text x="22" y="440.9" fill="#c9d1d9">       .**+++*+-::::-+@@%%%%####=.........</text>
-<text x="400.0" y="440.9" xml:space="preserve"><tspan fill="#ffa657">Email:</tspan><tspan fill="#484f58"> ............... </tspan><tspan fill="#c9d1d9">ngawangdorji200329@gmail.com</tspan></text>
-<text x="22" y="463.3" fill="#c9d1d9">       =**++**=+:.::::=*%%%%%%%+..........</text>
-<text x="400.0" y="463.3" xml:space="preserve"><tspan fill="#ffa657">GitHub:</tspan><tspan fill="#484f58"> .............. </tspan><tspan fill="#c9d1d9">github.com/NovaIsCoding</tspan></text>
-<text x="22" y="485.7" fill="#c9d1d9">      .***++**=+=:::::::-*%%%#+...........</text>
-<text x="400.0" y="485.7" xml:space="preserve"><tspan fill="#ffa657">Instagram:</tspan><tspan fill="#484f58"> ........... </tspan><tspan fill="#c9d1d9">@ig_ngawa</tspan></text>
-<text x="400.0" y="508.1" xml:space="preserve"><tspan fill="#ffa657">TikTok:</tspan><tspan fill="#484f58"> .............. </tspan><tspan fill="#c9d1d9">@tt_ngawa</tspan></text>
-<text x="400.0" y="552.9" xml:space="preserve"><tspan fill="#484f58">----------------</tspan><tspan fill="#e6edf3"> GitHub Stats </tspan><tspan fill="#484f58">----------------</tspan></text>
-<text x="400.0" y="575.3" xml:space="preserve"><tspan fill="#ffa657">Repos:</tspan><tspan fill="#484f58"> ............... </tspan><tspan fill="#79c0ff">6</tspan><tspan fill="#484f58">   |   </tspan><tspan fill="#ffa657">Commits: </tspan><tspan fill="#79c0ff">15</tspan></text>
-<text x="400.0" y="597.7" xml:space="preserve"><tspan fill="#ffa657">Followers:</tspan><tspan fill="#484f58"> ........... </tspan><tspan fill="#c9d1d9">2</tspan></text>
-<text x="400.0" y="620.1" xml:space="preserve"><tspan fill="#ffa657">Lines Touched:</tspan><tspan fill="#484f58"> ....... </tspan><tspan fill="#79c0ff">30,033</tspan><tspan fill="#484f58">  (</tspan><tspan fill="#3fb950">26,118++</tspan><tspan fill="#484f58">, </tspan><tspan fill="#f85149">3,915--</tspan><tspan fill="#484f58">)</tspan></text>
+<text x="24" y="39.7" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs">                  .::.                </text>
+<text x="376.8" y="39.7" xml:space="preserve"><tspan fill="#e6edf3" textLength="100.8" lengthAdjust="spacingAndGlyphs">ngawang@nova</tspan></text>
+<text x="24" y="62.1" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs">               :+###**=-:             </text>
+<text x="376.8" y="62.1" xml:space="preserve"><tspan fill="#484f58" textLength="386.4" lengthAdjust="spacingAndGlyphs">----------------------------------------------</tspan></text>
+<text x="24" y="84.5" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs">              *@%*+++=++--.           </text>
+<text x="24" y="106.9" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs">             =@%%##==++--+=           </text>
+<text x="376.8" y="106.9" xml:space="preserve"><tspan fill="#ffa657" textLength="42.0" lengthAdjust="spacingAndGlyphs">Role:</tspan><tspan fill="#484f58" textLength="151.2" lengthAdjust="spacingAndGlyphs"> ................ </tspan><tspan fill="#c9d1d9" textLength="168.0" lengthAdjust="spacingAndGlyphs">Full Stack Developer</tspan></text>
+<text x="24" y="129.3" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs">             -%%%%%#******.           </text>
+<text x="376.8" y="129.3" xml:space="preserve"><tspan fill="#ffa657" textLength="67.2" lengthAdjust="spacingAndGlyphs">Company:</tspan><tspan fill="#484f58" textLength="126.0" lengthAdjust="spacingAndGlyphs"> ............. </tspan><tspan fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs">21 Tech</tspan></text>
+<text x="24" y="151.7" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs">              #@%%%%%#%##+.           </text>
+<text x="376.8" y="151.7" xml:space="preserve"><tspan fill="#ffa657" textLength="75.6" lengthAdjust="spacingAndGlyphs">Location:</tspan><tspan fill="#484f58" textLength="117.6" lengthAdjust="spacingAndGlyphs"> ............ </tspan><tspan fill="#c9d1d9" textLength="126.0" lengthAdjust="spacingAndGlyphs">Thimphu, Bhutan</tspan></text>
+<text x="24" y="174.1" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs">              .#%%%%%%%%*-            </text>
+<text x="376.8" y="174.1" xml:space="preserve"><tspan fill="#ffa657" textLength="33.6" lengthAdjust="spacingAndGlyphs">IDE:</tspan><tspan fill="#484f58" textLength="159.6" lengthAdjust="spacingAndGlyphs"> ................. </tspan><tspan fill="#c9d1d9" textLength="58.8" lengthAdjust="spacingAndGlyphs">VS Code</tspan></text>
+<text x="24" y="196.5" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs">                #%%%#+=-:             </text>
+<text x="376.8" y="196.5" xml:space="preserve"><tspan fill="#ffa657" textLength="58.8" lengthAdjust="spacingAndGlyphs">Uptime:</tspan><tspan fill="#484f58" textLength="134.4" lengthAdjust="spacingAndGlyphs"> .............. </tspan><tspan fill="#c9d1d9" textLength="218.4" lengthAdjust="spacingAndGlyphs">4y 6mo (GitHub since 2022)</tspan></text>
+<text x="24" y="218.9" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs">              :+###*=----::.          </text>
+<text x="24" y="241.3" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs">             :%@%%%+----::::          </text>
+<text x="376.8" y="241.3" xml:space="preserve"><tspan fill="#ffa657" textLength="84.0" lengthAdjust="spacingAndGlyphs">Lang.Code:</tspan><tspan fill="#484f58" textLength="109.2" lengthAdjust="spacingAndGlyphs"> ........... </tspan><tspan fill="#c9d1d9" textLength="193.2" lengthAdjust="spacingAndGlyphs">TypeScript, JavaScript,</tspan></text>
+<text x="24" y="263.7" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs">           .+%%#%%@@%++=::::.         </text>
+<text x="376.8" y="263.7" xml:space="preserve"><tspan fill="#c9d1d9" textLength="201.6" lengthAdjust="spacingAndGlyphs">                        </tspan><tspan fill="#c9d1d9" textLength="142.8" lengthAdjust="spacingAndGlyphs">Python, PHP, Java</tspan></text>
+<text x="24" y="286.1" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs">       .:-=+++******##%=:-::::..      </text>
+<text x="376.8" y="286.1" xml:space="preserve"><tspan fill="#ffa657" textLength="100.8" lengthAdjust="spacingAndGlyphs">Lang.Markup:</tspan><tspan fill="#484f58" textLength="92.4" lengthAdjust="spacingAndGlyphs"> ......... </tspan><tspan fill="#c9d1d9" textLength="126.0" lengthAdjust="spacingAndGlyphs">HTML, CSS, JSON</tspan></text>
+<text x="24" y="308.5" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs">      =*-++:----=+###@%+=--::::::     </text>
+<text x="376.8" y="308.5" xml:space="preserve"><tspan fill="#ffa657" textLength="84.0" lengthAdjust="spacingAndGlyphs">Lang.Real:</tspan><tspan fill="#484f58" textLength="109.2" lengthAdjust="spacingAndGlyphs"> ........... </tspan><tspan fill="#c9d1d9" textLength="142.8" lengthAdjust="spacingAndGlyphs">Dzongkha, English</tspan></text>
+<text x="24" y="330.9" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs">     *@#-==:===--:-*#*+==---:::--:    </text>
+<text x="24" y="353.3" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs">    #@%@#--:=+==--::---------::-=+..  </text>
+<text x="376.8" y="353.3" xml:space="preserve"><tspan fill="#ffa657" textLength="67.2" lengthAdjust="spacingAndGlyphs">Hobbies:</tspan><tspan fill="#484f58" textLength="126.0" lengthAdjust="spacingAndGlyphs"> ............. </tspan><tspan fill="#c9d1d9" textLength="151.2" lengthAdjust="spacingAndGlyphs">Open source, UI/UX</tspan></text>
+<text x="24" y="375.7" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs">   *@%%%@=::=*+=--:-----===:=-:--=::  </text>
+<text x="376.8" y="375.7" xml:space="preserve"><tspan fill="#c9d1d9" textLength="201.6" lengthAdjust="spacingAndGlyphs">                        </tspan><tspan fill="#c9d1d9" textLength="75.6" lengthAdjust="spacingAndGlyphs">tinkering</tspan></text>
+<text x="24" y="398.1" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs">  -@%%%%@*:--**+=-----=-=+=:==-==---. </text>
+<text x="24" y="420.5" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs">  #%%%%%@#---+**=-----=-=*=:-+=--*=-: </text>
+<text x="376.8" y="420.5" xml:space="preserve"><tspan fill="#484f58" textLength="151.2" lengthAdjust="spacingAndGlyphs">------------------</tspan><tspan fill="#e6edf3" textLength="75.6" lengthAdjust="spacingAndGlyphs"> Contact </tspan><tspan fill="#484f58" textLength="159.6" lengthAdjust="spacingAndGlyphs">-------------------</tspan></text>
+<text x="24" y="442.9" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs"> :@%%%%%@#---+##+--:-=+==*+-:=+=--::: </text>
+<text x="376.8" y="442.9" xml:space="preserve"><tspan fill="#ffa657" textLength="50.4" lengthAdjust="spacingAndGlyphs">Email:</tspan><tspan fill="#484f58" textLength="142.8" lengthAdjust="spacingAndGlyphs"> ............... </tspan><tspan fill="#c9d1d9" textLength="235.2" lengthAdjust="spacingAndGlyphs">ngawangdorji200329@gmail.com</tspan></text>
+<text x="24" y="465.3" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs"> +%%%%%#@#---+%%*=-:--+++++-:=++-***-.</text>
+<text x="376.8" y="465.3" xml:space="preserve"><tspan fill="#ffa657" textLength="58.8" lengthAdjust="spacingAndGlyphs">GitHub:</tspan><tspan fill="#484f58" textLength="134.4" lengthAdjust="spacingAndGlyphs"> .............. </tspan><tspan fill="#c9d1d9" textLength="193.2" lengthAdjust="spacingAndGlyphs">github.com/NovaIsCoding</tspan></text>
+<text x="24" y="487.7" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs"> #@%%%%%@#=--*%%*=----=*+++-:=*+-#%+=.</text>
+<text x="376.8" y="487.7" xml:space="preserve"><tspan fill="#ffa657" textLength="75.6" lengthAdjust="spacingAndGlyphs">LinkedIn:</tspan><tspan fill="#484f58" textLength="117.6" lengthAdjust="spacingAndGlyphs"> ............ </tspan><tspan fill="#c9d1d9" textLength="327.6" lengthAdjust="spacingAndGlyphs">linkedin.com/in/ngawang-dorji-42b086252</tspan></text>
+<text x="24" y="510.1" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs"> %%%%%%%%%+--#%%#=----=**++-:=**=++-=.</text>
+<text x="24" y="532.5" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs">.%%%%%%%%%*=+%%%%+=---=+#*+-:=+*=**+= </text>
+<text x="376.8" y="532.5" xml:space="preserve"><tspan fill="#484f58" textLength="134.4" lengthAdjust="spacingAndGlyphs">----------------</tspan><tspan fill="#e6edf3" textLength="117.6" lengthAdjust="spacingAndGlyphs"> GitHub Stats </tspan><tspan fill="#484f58" textLength="134.4" lengthAdjust="spacingAndGlyphs">----------------</tspan></text>
+<text x="24" y="554.9" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs">:@%%%%%%%%*=#%%%#+=---=+*%*=:-+*++**- </text>
+<text x="376.8" y="554.9" xml:space="preserve"><tspan fill="#ffa657" textLength="50.4" lengthAdjust="spacingAndGlyphs">Repos:</tspan><tspan fill="#484f58" textLength="142.8" lengthAdjust="spacingAndGlyphs"> ............... </tspan><tspan fill="#79c0ff" textLength="8.4" lengthAdjust="spacingAndGlyphs">6</tspan><tspan fill="#484f58" textLength="58.8" lengthAdjust="spacingAndGlyphs">   |   </tspan><tspan fill="#ffa657" textLength="75.6" lengthAdjust="spacingAndGlyphs">Commits: </tspan><tspan fill="#79c0ff" textLength="16.8" lengthAdjust="spacingAndGlyphs">15</tspan></text>
+<text x="24" y="577.3" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs">-%%%%%%%@%**%%%%%#+---=+*#*=:-+*+-+=  </text>
+<text x="376.8" y="577.3" xml:space="preserve"><tspan fill="#ffa657" textLength="84.0" lengthAdjust="spacingAndGlyphs">Followers:</tspan><tspan fill="#484f58" textLength="109.2" lengthAdjust="spacingAndGlyphs"> ........... </tspan><tspan fill="#c9d1d9" textLength="8.4" lengthAdjust="spacingAndGlyphs">2</tspan></text>
+<text x="24" y="599.7" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs">-@%%%%%@@%#%%%%%%%*=---+*##*-:=+++.   </text>
+<text x="376.8" y="599.7" xml:space="preserve"><tspan fill="#ffa657" textLength="117.6" lengthAdjust="spacingAndGlyphs">Lines Touched:</tspan><tspan fill="#484f58" textLength="75.6" lengthAdjust="spacingAndGlyphs"> ....... </tspan><tspan fill="#79c0ff" textLength="50.4" lengthAdjust="spacingAndGlyphs">30,033</tspan><tspan fill="#484f58" textLength="25.2" lengthAdjust="spacingAndGlyphs">  (</tspan><tspan fill="#3fb950" textLength="67.2" lengthAdjust="spacingAndGlyphs">26,118++</tspan><tspan fill="#484f58" textLength="16.8" lengthAdjust="spacingAndGlyphs">, </tspan><tspan fill="#f85149" textLength="58.8" lengthAdjust="spacingAndGlyphs">3,915--</tspan><tspan fill="#484f58" textLength="8.4" lengthAdjust="spacingAndGlyphs">)</tspan></text>
+<text x="24" y="622.1" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs"> %%%%%%%@%%%%%%%%%#=----+**#*:-+**    </text>
+<text x="24" y="644.5" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs"> -@%%%%%%%%%%%%%%%#*=----=++*=:--.    </text>
+<text x="24" y="666.9" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs">  #%%%%%%%%%@@@%%%%%*=------=+-:      </text>
+<text x="24" y="689.3" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs">  :@%%%%%@@@%%%%%%%%%#*====++==-      </text>
+<text x="24" y="711.7" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs">   =#%%@@%%%%%@@@@@@%%%%*+**++=:      </text>
+<text x="24" y="734.1" fill="#c9d1d9" textLength="319.2" lengthAdjust="spacingAndGlyphs">     =%%%%%%%%%##*****##*+**+=+=      </text>
 </g>
 </svg>
