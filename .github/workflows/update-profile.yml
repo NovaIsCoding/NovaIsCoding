@@ -1,0 +1,54 @@
+name: Update profile cards
+
+# Refreshes the animated cards in cards/ from real GitHub data once a day.
+
+"on":
+  schedule:
+    - cron: "20 0 * * *" # daily, shortly after midnight UTC
+  workflow_dispatch: {}
+  push:
+    paths:
+      - scripts/**
+      - fonts/**
+      - assets/portrait.txt
+      - .github/workflows/update-profile.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile
+  cancel-in-progress: false
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Fetch data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # optional PAT (repo + read:org): counts private commits and private org repos
+          ORG_TOKEN: ${{ secrets.ORG_TOKEN }}
+          LOGIN: ${{ github.repository_owner }}
+        run: python scripts/fetch_data.py
+
+      - name: Render cards
+        run: python scripts/render_cards.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/profile.json cards/*.svg
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: refresh profile cards [skip ci]"
+            git push
+          fi
