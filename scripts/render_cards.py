@@ -31,7 +31,6 @@ TILES = [  # label, big text, description, background, text colour, link
     ("BEYOND", "Design", "UI/UX, gaming and gadget reviews when I'm not shipping.", "#cdd8ff", "#111111", "https://github.com/NovaIsCoding"),
 ]
 CODING_TITLE = "What I'm coding"
-ORG_REPOS = 37
 
 # ---- tokens -----------------------------------------------------------------
 PAPER, PAPER_DEEP, INK, MUTED, RULE = "#f3f3f1", "#e2e2de", "#111111", "#6e6e73", "#dcdcd7"
@@ -209,9 +208,7 @@ def tile(i):
     w, h = CW, 222
     off = cell_offset(i)
     if big is None:
-        # Hard-coded for now: the CI token can't read the orgs, so the fetched count is 0.
-        # Switch back to DATA["org_repos"] once ORG_TOKEN works.
-        big = f"{ORG_REPOS} repos"
+        big = f"{DATA['org_repos']} repos"
     edge = ' stroke="#3a3a40" stroke-width="1"' if bg == "#111111" else ""   # keeps the dark tile visible in dark mode
     b = [f'<a href="{link}"><rect x="0.5" y="0.5" width="{w - 1:.3f}" height="{h - 1}" rx="20" fill="{bg}"{edge}/>']
     b.append(f'<circle class="rg" cx="{w - 40:.1f}" cy="{h - 30}" r="80" fill="none" stroke="{fg}" stroke-opacity=".5" {d(0.3)}/>')
