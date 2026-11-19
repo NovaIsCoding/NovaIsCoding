@@ -1,1 +1,1 @@
-<img src="./profile-card.svg?v=1" alt="ngawang@nova" />
+<img src="koi/koi.gif" width="256" alt="My koi" />
