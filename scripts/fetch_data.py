@@ -4,7 +4,8 @@
 Standard library only. Token lookup: ORG_TOKEN (a PAT, counts private work), then
 GITHUB_TOKEN (CI built-in, public data only), then `gh auth token` for local runs.
 
-Env: LOGIN (default NovaIsCoding), ORGS (comma list, default the four below).
+Env: LOGIN (default NovaIsCoding), ORGS (comma list of organisations to count; kept out of the
+repo on purpose, set it as the ORGS Actions variable or in your shell).
 """
 import datetime
 import json
@@ -16,7 +17,7 @@ import urllib.request
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
 OUT = os.path.join(ROOT, "data", "profile.json")
 LOGIN = os.environ.get("LOGIN", "NovaIsCoding")
-ORGS = [o.strip() for o in os.environ.get("ORGS", "Census-Pro,Attendance-Pro,BhutanApp,LuckyPem").split(",") if o.strip()]
+ORGS = [o.strip() for o in os.environ.get("ORGS", "").split(",") if o.strip()]
 
 
 def tokens():
@@ -129,7 +130,6 @@ data = {
     "months": months,
     "weeks": [[{"date": d["date"], "n": d["contributionCount"], "level": d["contributionLevel"]} for d in w["contributionDays"]]
               for w in cc["contributionCalendar"]["weeks"]],
-    "orgs": ORGS,
     "org_repos": org_repos,
     "org_stars": org_stars,
     "repos": [{"name": r["name"], "url": r["url"], "desc": r["description"] or "",

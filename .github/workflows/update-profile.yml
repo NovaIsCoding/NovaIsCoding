@@ -36,6 +36,7 @@ jobs:
           # optional PAT (repo + read:org): counts private commits and private org repos
           ORG_TOKEN: ${{ secrets.ORG_TOKEN }}
           LOGIN: ${{ github.repository_owner }}
+          ORGS: ${{ vars.ORGS }} # organisations to count, set as an Actions variable (kept out of the repo)
         run: python scripts/fetch_data.py
 
       - name: Render cards

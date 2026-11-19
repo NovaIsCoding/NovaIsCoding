@@ -26,7 +26,7 @@ KICKER = "SOFTWARE ENGINEER AT 21 TECH"
 TAGLINE = ["I build web and mobile products from Thimphu, Bhutan,", "with Next.js, NestJS and React Native."]
 LINK_TEXT, LINK_URL = "github.com/NovaIsCoding", "https://github.com/NovaIsCoding"
 TILES = [  # label, big text, description, background, text colour, link
-    ("BUILD", None, "across Census-Pro, Attendance-Pro, BhutanApp and LuckyPem.", "#111111", "#ffffff", "https://github.com/Census-Pro"),
+    ("BUILD", None, "of private and public work across my organisations.", "#111111", "#ffffff", "https://github.com/NovaIsCoding"),
     ("STACK", "Full stack", "Next.js, NestJS and React Native, from the API to the app.", "#2f55ff", "#ffffff", "https://github.com/NovaIsCoding?tab=repositories"),
     ("BEYOND", "Design", "UI/UX, gaming and gadget reviews when I'm not shipping.", "#cdd8ff", "#111111", "https://github.com/NovaIsCoding"),
 ]
