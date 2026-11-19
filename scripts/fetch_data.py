@@ -10,6 +10,7 @@ import datetime
 import json
 import os
 import subprocess
+import urllib.error
 import urllib.request
 
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
@@ -18,24 +19,39 @@ LOGIN = os.environ.get("LOGIN", "NovaIsCoding")
 ORGS = [o.strip() for o in os.environ.get("ORGS", "Census-Pro,Attendance-Pro,BhutanApp,LuckyPem").split(",") if o.strip()]
 
 
-def token():
-    t = os.environ.get("ORG_TOKEN") or os.environ.get("GITHUB_TOKEN")
-    if t:
-        return t
-    return subprocess.run(["gh", "auth", "token"], capture_output=True, text=True, check=True).stdout.strip()
+def tokens():
+    """Preferred token first. ORG_TOKEN may be rejected (expired, wrong scopes, SSO not
+    authorised); the built-in GITHUB_TOKEN is the fallback and sees public data only."""
+    found = [t for t in (os.environ.get("ORG_TOKEN"), os.environ.get("GITHUB_TOKEN")) if t]
+    if not found:
+        found = [subprocess.run(["gh", "auth", "token"], capture_output=True, text=True, check=True).stdout.strip()]
+    return found
 
 
-TOKEN = token()
+TOKENS = tokens()
+TOKEN = TOKENS[0]
 
 
 def gql(query, variables):
-    req = urllib.request.Request(
-        "https://api.github.com/graphql",
-        data=json.dumps({"query": query, "variables": variables}).encode(),
-        headers={"Authorization": f"bearer {TOKEN}", "Content-Type": "application/json", "User-Agent": "profile-cards"},
-    )
-    with urllib.request.urlopen(req, timeout=60) as r:
-        out = json.load(r)
+    global TOKEN
+    while True:
+        req = urllib.request.Request(
+            "https://api.github.com/graphql",
+            data=json.dumps({"query": query, "variables": variables}).encode(),
+            headers={"Authorization": f"bearer {TOKEN}", "Content-Type": "application/json", "User-Agent": "profile-cards"},
+        )
+        try:
+            with urllib.request.urlopen(req, timeout=60) as r:
+                out = json.load(r)
+            break
+        except urllib.error.HTTPError as e:
+            rest = TOKENS[TOKENS.index(TOKEN) + 1:]
+            if e.code == 401 and rest:
+                print("::warning::First token was rejected (401); falling back to GITHUB_TOKEN. "
+                      "Private commits and private org repos will not be counted. Check the ORG_TOKEN secret.")
+                TOKEN = rest[0]
+                continue
+            raise
     if out.get("errors") and not out.get("data"):
         raise SystemExit(f"GitHub API error: {out['errors']}")
     return out["data"]
